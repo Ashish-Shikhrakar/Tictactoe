@@ -1,11 +1,7 @@
 # Tic-Tac-Toe
-Tictactoe project
-- Self-project 
-- made with C programming in Visual Studio Code
-- Currently Working modes:
-1. Multiplayer/2 player
-- Unsupported mode(Currently):
-1. Singleplayer(against AI)
-- Future modes(?)
-1. 6x6 (multiplayer)
-2. 6x6 (Singleplayer)
+Tic-Tac-Toe game made using C
+
+- made with C programming language in Visual Studio Code
+- Multiplayer/2 player
+- basic UI with cell number as input for the players
+
