@@ -1,4 +1,4 @@
-# Tictactoe
+# Tic-Tac-Toe
 Tictactoe project
 - Self-project 
 - made with C programming in Visual Studio Code
